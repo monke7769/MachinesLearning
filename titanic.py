@@ -1,3 +1,6 @@
+# nOtE: nOt uSeD!!!
+# will call this stuff from frontend to backend
+
 import seaborn as sns
 import pandas as pd
 # Preprocess the data
@@ -27,7 +30,6 @@ print(td.columns)
 #display(td)
 
 # Load the titanic dataset
-titanic_data = sns.load_dataset('titanic')
 
 print("Titanic Data")
 
